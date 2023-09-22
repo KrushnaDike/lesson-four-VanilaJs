@@ -1,0 +1,30 @@
+.translate_btn {
+    padding: 10px;
+    border-radius: 5px;
+    background-color: white;
+    color: white;
+    font-weight: bolder;
+    font-size: 20px;
+    color: black;
+    cursor: pointer;
+    text-transform: uppercase;
+}
+
+textarea {
+    width: 90%;
+    height: 10vh;
+    display: block;
+    margin: 1rem;
+    font-size: 20px;
+    padding: 1rem;
+}
+
+.output {
+    margin: 1rem;
+    height: 10vh;
+    width: 90%;
+    border: 1px solid black;
+    border-radius: 5px;
+    font-size: 20px;
+    padding: 1rem;
+}
